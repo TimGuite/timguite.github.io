@@ -6,30 +6,42 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Jun 2019 15:29:56 +0100</pubDate>
-    <lastBuildDate>Sat, 15 Jun 2019 15:29:56 +0100</lastBuildDate>
+    <pubDate>Sat, 15 Jun 2019 21:14:28 +0100</pubDate>
+    <lastBuildDate>Sat, 15 Jun 2019 21:14:28 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Why am I starting?</title>
+        <description>&lt;p&gt;Right now, my life is kind of busy.
+I’ve been working at Diamond Light Source for almost 9 months and am starting to understand the scale of the work which is actually involved in supporting such a large scientific institution.
+At the same time, I can see the opportunities which are available to lead, in coordination with other facilities around the world, the uptake of modern technology such as web displays and continuous integration.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h3 id=&quot;making-things-easier&quot;&gt;Making things easier&lt;/h3&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;In a way, the work I am doing lines up quite well with something I think is underappreciated within the engineering and software communities - &lt;strong&gt;making things easy to do&lt;/strong&gt;.
+Most people working in software understand the pain of having to work through poor documentation and tutorials in order to figure out how to do something relatively simple, and the absolute &lt;em&gt;neccessity&lt;/em&gt; of having to do so.
+I just don’t think things should be like this and so I am trying to (slowly) contribute what I can to make a difference.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;open-source&quot;&gt;Open source&lt;/h3&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To my mind, this involves having well designed tutorials explaining why things are done.
+Ideally, built up in small, easy to understand segments which demonstrate how to build up knowledge and the process many people learn to follow eventually.
+There are many tutorials like this but what they often lack is fully implemented examples.
+It is completely free to host projects on Github so there is no reason not to make them as accessible as possible.&lt;/p&gt;
 
+&lt;h3 id=&quot;web&quot;&gt;Web&lt;/h3&gt;
+
+&lt;p&gt;It can seem like everyone has a website now.
+I have tried at various points in the last few years to get one started but always come up against a barrier of some kind.
+However, I now have a real desire to share some of my knowledge and to use this website as a platform to practice the skill of education so that it is ready when I have something really important to let people know about. 
+I would fully recommend &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, which is what I used to start this site!&lt;/p&gt;
+
+&lt;p&gt;I also really want to understand how things on the internet actually work - this is one of those things I don’t think people explain as well as they should!
+So what better way than building a website?&lt;/p&gt;
 </description>
-        <pubDate>Fri, 14 Jun 2019 22:12:16 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2019/06/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2019/06/14/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 15 Jun 2019 19:00:00 +0100</pubDate>
+        <link>http://localhost:4000/jekyll/update/2019/06/15/why-a-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2019/06/15/why-a-blog.html</guid>
         
         
         <category>jekyll</category>
