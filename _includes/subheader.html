@@ -25,9 +25,12 @@
   </div>
 
   <div class="wrapper">
+    <nav class="sub-nav">
       <div class="trigger">
         {% for my_page in site.pages %}
-          {% if (my_page.menu == page.title) %}
+          {% if (my_page.title == page.title) %}
+            <b><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></b>
+          {% elsif (my_page.menu == page.menu) %}
             <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
