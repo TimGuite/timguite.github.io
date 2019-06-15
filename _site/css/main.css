@@ -216,9 +216,10 @@ pre {
     display: none; }
   .sub-nav .page-link {
     color: #111;
-    line-height: 1.5; }
+    line-height: 1.5;
+    margin-left: 10px; }
     .sub-nav .page-link:not(:last-child) {
-      margin-right: 20px; }
+      margin-right: 10px; }
   @media screen and (max-width: 600px) {
     .sub-nav {
       position: absolute;
@@ -227,10 +228,10 @@ pre {
       background-color: #fdfdfd;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
-      text-align: right; }
+      text-align: center; }
       .sub-nav .menu-icon {
         display: block;
-        float: right;
+        float: left;
         width: 36px;
         height: 26px;
         line-height: 0;
@@ -249,10 +250,9 @@ pre {
         padding-bottom: 5px; }
       .sub-nav .page-link {
         display: block;
-        padding: 5px 10px;
-        margin-left: 20px; }
+        padding: 10px 10px; }
         .sub-nav .page-link:not(:last-child) {
-          margin-right: 0; } }
+          margin-left: 10; } }
 
 /**
  * Site footer

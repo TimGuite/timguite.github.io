@@ -25,6 +25,7 @@
   </div>
 
   <div class="wrapper">
+    <nav class="sub-nav">
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if (my_page.menu == page.title) %}
@@ -33,7 +34,6 @@
         {% endfor %}
       </div>
     </nav>
-
   </div>
 
 </header>

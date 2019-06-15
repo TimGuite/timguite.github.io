@@ -108,8 +108,9 @@
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 20px;
+            margin-right: 10px;
         }
+        margin-left: 10px;
     }
 
     @include media-query($on-palm) {
@@ -119,11 +120,11 @@
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
+        text-align: center;
 
         .menu-icon {
             display: block;
-            float: right;
+            float: left;
             width: 36px;
             height: 26px;
             line-height: 0;
@@ -152,12 +153,11 @@
 
         .page-link {
             display: block;
-            padding: 5px 10px;
+            padding: 10px 10px;
 
             &:not(:last-child) {
-                margin-right: 0;
+                margin-left: 10;
             }
-            margin-left: 20px;
         }
     }
 }
