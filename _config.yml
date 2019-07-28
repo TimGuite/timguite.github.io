@@ -19,3 +19,5 @@ url: "https://timguite.github.io" # the base hostname & protocol for your site
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+
+port: 4001
