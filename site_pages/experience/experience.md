@@ -9,6 +9,15 @@ This section provides information about my experience through both education and
 
 Click on the pictures to find out more!
 
-Work            |  Education
-:-------------------------:|:-------------------------:
-[![Work](/assets/tools.png){:height="80%" width="80%"}](work.html)  |  [![Education](/assets/Graduation_square.jpg){:height="80%" width="80%"}](eduction.html)
+<div class="side_by_side_image">
+    <b>Work</b>
+    <a href="work.html">
+        <img src="/assets/tools.png" alt="Work">
+    </a>
+</div>
+<div class="side_by_side_image">
+    <b>Education</b>
+    <a href="education.html">
+        <img src="/assets/Graduation_square.jpg" alt="Education">
+    </a>
+</div>
