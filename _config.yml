@@ -21,3 +21,5 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 
 port: 4001
+
+github_username: TimGuite
