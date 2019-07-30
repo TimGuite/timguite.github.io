@@ -11,13 +11,13 @@ Click on the pictures to find out more!
 
 <div class="side_by_side_image">
     <b>Work</b>
-    <a href="work.html">
+    <a href="/experience/work.html">
         <img src="/assets/tools.png" alt="Work">
     </a>
 </div>
 <div class="side_by_side_image">
     <b>Education</b>
-    <a href="education.html">
+    <a href="/experience/education.html">
         <img src="/assets/Graduation_square.jpg" alt="Education">
     </a>
 </div>

@@ -23,8 +23,24 @@ Learning about the intricacies of EPICS and contributing to the global collabora
 In July I represented Diamond at the EPICS conference at [ITER](https://www.iter.org/), discussing our work into using web
 applications for display and control.
 
-The first year of the Graduate scheme is split into four projects, so far I have completed three:
+In my latest project, I have been working to implement a machine learning algorithm to aid [Macomolecular Crystallography (MX)](https://www.diamond.ac.uk/Instruments/Techniques/Diffraction/MX) work at Diamond.
+The general concept it to look at data as it comes out and provide users with an idea about which experiments will yield better data.
+This project is documented here: https://python-topaz3.readthedocs.io/en/latest/
 
-### Upgrading control screens on I16 beamline
+As part of this project, I worked on the automated data analysis infrastructure, and led meetings across teams to lay out a path for the future.
+Here are some related links:
 
-- 
+- Automated data analysis at Diamond: <https://github.com/DiamondLightSource/python-zocalo>
+- Examples for new developers: <https://python-zocalo-examples.readthedocs.io/en/latest>
+- Diamond specific implementations: <https://github.com/DiamondLightSource/python-zocalo-dls>
+
+### Key Skills
+
+- Working as part of a much larger company than I have experienced before
+- EPICS Control System
+- Large scale build and deployment
+- Continuous Integration (CI) and associated tools
+- Git version control
+- Advanced Python
+- Presenting to a wide range of audiences (EPICS Collaboration vs public tours of Diamond)
+

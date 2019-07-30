@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Education
-permalink: /experience/eduction
+permalink: /experience/education
 menu: Experience
 ---
 
