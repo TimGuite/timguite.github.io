@@ -25,7 +25,7 @@ applications for display and control.
 
 In my latest project, I have been working to implement a machine learning algorithm to aid [Macomolecular Crystallography (MX)](https://www.diamond.ac.uk/Instruments/Techniques/Diffraction/MX) work at Diamond.
 The general concept it to look at data as it comes out and provide users with an idea about which experiments will yield better data.
-This project is documented here: https://python-topaz3.readthedocs.io/en/latest/
+This project is documented here: <https://python-topaz3.readthedocs.io/en/latest/>
 
 As part of this project, I worked on the automated data analysis infrastructure, and led meetings across teams to lay out a path for the future.
 Here are some related links:
@@ -73,3 +73,16 @@ I also learned about how to implement cloud computing principles with a [Microso
 - Product evaluation
 - Writing tutorials
 - Self-motivation and independent work
+
+# September 2013 - September 2014, June - August 2015 *Breathing Buildings*
+## **Engineering Internship**
+
+I have chose to join together two separate periods at [Breathing Buildings](https://www.breathingbuildings.com/)
+because they followed on from each other quite naturally.
+
+Having left school, I began a [Year IN Industry (YINI)](https://www.etrust.org.uk/the-year-in-industry) to learn what it really means to be an engineer!
+I was delighted to be working at a small company in Cambridge which was working to revolutionise ventilation!
+Having developed the system as a Professor at the local uni, our CEO was working at a governmental level to decrease the energy spent ventilating buildings in Britain, exchanging powerful air conditioning for small fans which use the natural properties of air to create appropriate indoor atmospheres.
+Shaun has gone on to become a director at [The Royal Institution](https://www.rigb.org/about/news/spring-2018/director-announcement) - yes, *that* Royal Institution.
+
+As a new member of the Project Delivery team, my first job was to learn everything I could about the work Breathing Buildings did: products, suppliers, sales methods, controls, site work, commissioning.
