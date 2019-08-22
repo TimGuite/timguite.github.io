@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Katrina</title>
+
+    <style>
+    
+    body {
+        background-color: #fa76d9;
+    }
+
+    .openButton {
+        position: absolute;
+        border-radius: 5px;
+        height: 10%;
+        width: 30%;
+        top: 45%;
+        left: 35%;
+        font-size: 2vw;
+        font-family: Verdana;
+        transition: ease 0.5s;
+    }
+
+    .opened {
+        top: 10%;
+    }
+
+    .card {
+        border: 5px outset #bb0000;
+        position: absolute;
+        top: 25%;
+        left: 30%;
+        height: 50%;
+        width: 40%;
+        background-color: #eeeeee;
+        border-radius: 10px;
+        opacity: 0;
+        font-family: Script;
+        font-size: 3vw;
+        text-align: center;
+        transition: ease 0.4s;
+    }
+
+    .cardOpen {
+        opacity: 1
+    }
+
+    </style>
+</head>
+<body>
+    <div class="card" id=card>
+        <br />
+        Dear Katrina,<br />
+
+        I love you<br />
+
+        🧡<br />
+
+        Yours,<br />
+
+        Tim
+    </div>
+    <button id="button" class="openButton">Click me to open message</button>
+    <script>
+        document.getElementById("button").addEventListener("click", (e) => {
+            e.target.classList.toggle("opened")
+            console.log(e.target)
+            if (e.target.innerText.includes("open")){
+                e.target.innerText = "Click me to close message"
+            }
+            else {
+                e.target.innerText = "Click me to open message"
+            }
+            console.log(e.target.classList)
+            document.getElementById("card").classList.toggle("cardOpen")
+        })
+    </script>
+</body>
+</html>
