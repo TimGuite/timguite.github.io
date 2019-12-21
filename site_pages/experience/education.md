@@ -5,10 +5,11 @@ permalink: /experience/education
 menu: Experience
 ---
 
-# MSc Embedded Systems *University of Southampton*
+# MSc Embedded Systems _University of Southampton_
+
 ## **Distinction**
 
-Embedded Systems are everywhere. 
+Embedded Systems are everywhere.
 It is a catchall term for any electronics which isn't an electrical system like a fuse or a transformer, but isn't quite a computer. Phones, smart meters, fridges - these are all embedded systems.
 Designing an embedded system which works well for a long time can be very challenging, particularly with an increased focus on connectivity (the Internet of Things). Knowledge is required across many disciplines.
 Although I had developed some systems up to this point, I decided to take this course in order to obtain the necessary strategies to move into making embedded systems as a profession.
@@ -19,7 +20,7 @@ I learned about Real Time Operating Systems (RTOS) and what constraints engineer
 
 Having never thought I would understand the basic principles behind a computer, modules in hardware design taught me how simple logic gates and registers can be combined to not only form specific calculation blocks, but evolve into processors!
 One of my favourite projects of the whole year involved writing code for a processor in SystemVerilog and then attempting to optimise the hardware to create the solution with the lowest power consumption.
-This involved carefully considering the requirements of the system to define an instruction set and my own machine language to write a program - carefully typed out in 1s and 0s! These processors were tested on the same FPGA development board which are used throughout industry. 
+This involved carefully considering the requirements of the system to define an instruction set and my own machine language to write a program - carefully typed out in 1s and 0s! These processors were tested on the same FPGA development board which are used throughout industry.
 Oh, it worked by the way!
 
 Separately, I really enjoyed modules on signal processing which encouraged us to implement widely used algorithms such as the Kalman filter, particle filter and Model Predictive Control.
@@ -30,11 +31,11 @@ Taking this course was a big change for me. Admittedly, I only moved across the 
 - Learned how to make key design decisions for software and hardware of embedded systems.
 - Designed FGPA microprocessors in SystemVerilog and optimised designs for synthesis.
 - Implemented several signal processing algorithms such as Kalman Filter, Particle Filter and Model Predictive Control
-- Learned about Real Time Operating Systems (RTOS) and discussed real-world issues
+- Learned about Real Time Operating Systems (RTOS) and discussed real-world issues with implementation.
 - Advanced signal processing and digital design synthesis techniques.
-- MSc Project on design of a low cost condition monitoring system for pumps and motors. 
+- Disseration on design of a low cost condition monitoring system for pumps and motors - [pdf available here](/assets/TimGuite_MSc_Dissertation.pdf).
 
-# Semester Abroad *Purdue University*
+# Semester Abroad _Purdue University_
 
 My semester at Purdue University was my first chance to visit USA and it was such an eye opener into how a different education can be!
 I was able to study modules in at the school of Electrical Engineering, which would normally be beyond my access on the Mechanical Engineering Course I was studying at Southampton.
@@ -46,7 +47,8 @@ It really changed my outlook and was one of the reasons I decided to look beyond
 
 Purdue is also home to a fantastic rugby team who took me under their wing. Along with an Australian, also called Tim, I spent a lot of time running around near a huge corn field working on both my rugby and leadership skills. And I managed to record a try in the Big 10 Rugby Championship!
 
-# BEng Mechanical Engineering *University of Southampton*
+# BEng Mechanical Engineering _University of Southampton_
+
 ## **First Class Honours**
 
 Mechanical Engineering at Southampton was a fantastic course which gave me an introduction to all areas of engineering.
