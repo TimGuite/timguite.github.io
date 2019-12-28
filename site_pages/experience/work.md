@@ -5,7 +5,8 @@ permalink: /experience/work
 menu: Experience
 ---
 
-# Oct 2018 - Present *Diamond Light Source*
+# Oct 2018 - Present _Diamond Light Source_
+
 ## **Graduate Software Systems Engineer**
 
 [Diamond Light Source](https://www.diamond.ac.uk) is the UK's national synchrotron.
@@ -15,7 +16,9 @@ This provides the basis for a wide range of research at the molecular level and 
 There are many synchrotrons around the world, specialised for different applications relevant to the research done in the country.
 Find out more [here.](https://lightsources.org/)
 
-As a member of the controls team, I am working to support the research activites by ensuring that motors move, detectors measure and
+I am currently working across two teams at Diamond: _Beamline Controls_ and _High Level Applications_.
+
+As a member of the _Beamline Controls_ team, I am working to support the research activites by ensuring that motors move, detectors measure and
 safety systems protect, when they are needed, together.
 This is an incredibly complicated task, as there are millions of data points to track and provide input into.
 Diamond uses an open source control system for this purpose known as [EPICS](https://epics.anl.gov/).
@@ -23,7 +26,20 @@ Learning about the intricacies of EPICS and contributing to the global collabora
 In July I represented Diamond at the EPICS conference at [ITER](https://www.iter.org/), discussing our work into using web
 applications for display and control.
 
-In my latest project, I have been working to implement a machine learning algorithm to aid [Macomolecular Crystallography (MX)](https://www.diamond.ac.uk/Instruments/Techniques/Diffraction/MX) work at Diamond.
+In the _High Level Applications_ team, we work to produce software tools which can be used across a number of the systems in use at Diamond.
+This ranges from tools with user interfaces and interaction with our databases which are used in the control room in live operations, to supporting our underlying build infrastructure.
+This requires familiarity with a range of programming languages in use at Diamond - primarily _Python_, _Java_, _C++_ and _JavaScript_ - and has been very interesting so far as a place for me to test my ideas and develop work to a high standard quickly.
+
+My most recent project, which is now looking to continue and develop, has been working on a web-based user interface to EPICS which fulfills all the requirements provided by our existing tools while providing the advantages of modern web applications.
+Diamond is not a company which has been responsible for many web apps before so we have been working on a prototype to help us build up knowledge.
+We decided to base our application around the core technologies of [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [TypeScript](https://www.typescriptlang.org/).
+Our project is open source so you van view our progress, and contribute, [here](https://github.com/dls-controls/cs-web-proto).
+
+This required me to quickly learn how to write in JavaScript, then TypeScript, which I did not have much experience of before, and then quickly apply it to the React/Redux framework for web applications, which I had only had explained to me at a very high level.
+This was quite an intense period of learning but I certainly do have a much better idea of how modern web applications are put together now!
+(Although some of it still seems like magic!)
+
+Before that, I worked to implement a machine learning algorithm to aid [Macomolecular Crystallography (MX)](https://www.diamond.ac.uk/Instruments/Techniques/Diffraction/MX) work at Diamond.
 The general concept it to look at data as it comes out and provide users with an idea about which experiments will yield better data.
 This project is documented here: <https://python-topaz3.readthedocs.io/en/latest/>
 
@@ -39,12 +55,13 @@ Here are some related links:
 - Working as part of a much larger company than I have experienced before
 - EPICS Control System
 - Large scale build and deployment
+- Advanced Python, JavaScript, TypeScript, React, C/C++
 - Continuous Integration (CI) and associated tools
 - Git version control
-- Advanced Python
 - Presenting to a wide range of audiences (EPICS Collaboration vs public tours of Diamond)
 
-# June - August 2016 *University of Southampton*
+# June - August 2016 _University of Southampton_
+
 ## **Internet of Things Internship**
 
 After summer of second year, I had a great opportunity to experience my university from another side, working within the Electronics and Computer Science (ECS) department at Southampton.
@@ -74,7 +91,8 @@ I also learned about how to implement cloud computing principles with a [Microso
 - Writing tutorials
 - Self-motivation and independent work
 
-# September 2013 - September 2014, June - August 2015 *Breathing Buildings*
+# September 2013 - September 2014, June - August 2015 _Breathing Buildings_
+
 ## **Engineering Internship**
 
 I have chose to join together two separate periods at [Breathing Buildings](https://www.breathingbuildings.com/)
@@ -83,6 +101,6 @@ because they followed on from each other quite naturally.
 Having left school, I began a [Year IN Industry (YINI)](https://www.etrust.org.uk/the-year-in-industry) to learn what it really means to be an engineer!
 I was delighted to be working at a small company in Cambridge which was working to revolutionise ventilation!
 Having developed the system as a Professor at the local uni, our CEO was working at a governmental level to decrease the energy spent ventilating buildings in Britain, exchanging powerful air conditioning for small fans which use the natural properties of air to create appropriate indoor atmospheres.
-Shaun has gone on to become a director at [The Royal Institution](https://www.rigb.org/about/news/spring-2018/director-announcement) - yes, *that* Royal Institution.
+Shaun has gone on to become a director at [The Royal Institution](https://www.rigb.org/about/news/spring-2018/director-announcement) - yes, _that_ Royal Institution.
 
 As a new member of the Project Delivery team, my first job was to learn everything I could about the work Breathing Buildings did: products, suppliers, sales methods, controls, site work, commissioning.
