@@ -25,7 +25,7 @@ It allows the result of expressions to be encapsulated as `Just x` or `Nothing` 
 This is used for describing the output of functions within Haskell's type system.
 
 Python does not have a strong type system like Haskell.
-However, I recently found out avout the [singledispatch](https://docs.python.org/3/library/functools.html#functools.singledispatch) decorator, which allows function overloading based on type!
+However, I recently found out about the [singledispatch](https://docs.python.org/3/library/functools.html#functools.singledispatch) decorator, which allows function overloading based on type!
 
 To find out more and develop my understading of Python, Haskell and types, I think it would be really cool to implement an approximation of Data.Maybe in Python.
 
@@ -62,6 +62,9 @@ It is very much designed to be a white box project, where everything can be seen
 
 I would like to add support for the [PyQt](https://riverbankcomputing.com/software/pyqt/intro) graphical framework so that it can be more useful to more people.
 
+The interesting thing about this, if I can get it to work, is that there is the potential to have multiple graphical frameworks, of different types, interacting with each other!
+I think this would be quite useful for someone prototyping a distributed application and looking to understand what their interface should look like.
+
 This would also prompt me to improve other parts of the framework, and to create more examples!
 
 # Circuit layout for night lights
@@ -72,5 +75,3 @@ It should be relatively simple to move this on to a PCB using free online tools 
 If I could then develop a nice enclosure for it, this might be something which could be taken forward as a Kickstarter type project!
 
 # Wish me luck!
-
-I'll probably need it!
