@@ -14,7 +14,6 @@ The [Battle of Thermopylae](https://en.wikipedia.org/wiki/Battle_of_Thermopylae)
 A popular retelling of this story, 300, is a good hook to draw in any audience before providing them with more accurate historical information.
 However, Devereaux's use of 300 goes beyond this.
 Most apparently, scenes from the movie are placed throughout the article so that their inaccuracy can be commented on.
-This usage refrains from intruding on the wider commentary.
 More interestingly, by peppering references to this clearly fictitious source in between references to the real sources - Herodotus, Thucydides, Xenophon, Aristotle and Plutarch - Devereaux reinforces a point he states consistently:
 
 > Sources cannot always be trusted
@@ -26,6 +25,5 @@ This element of the articles is a brief education on _the work of historians_.
 It is just as important as anything about Sparta you might learn by reading this collection.
 
 Finally, Devereaux writes in a conversational tone that draws the reader in, and lowers the barrier to entry of even quite serious subject matter.
-I once heard QI ([the British panel show](https://www.bbc.co.uk/programmes/b006ml0g)) described as listening in on a dinner party with smart, funny individuals.
-These articles strike the same tone, with Devereaux certainly sharing a knowing grin from time to time.
+These articles feel less like a lecture and more like an engrossing story at a dinner party; Devereaux certainly shares a knowing grin from time to time.
 A thoroughly enjoyable read!
